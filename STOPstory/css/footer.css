@@ -1,0 +1,53 @@
+footer img {
+  width: 85px;
+  height: 60px;
+  margin: 90px 0px 0px 90px;
+  float: left;
+}
+
+footer div:nth-child(2) {
+  width: 167px;
+  height: 46px;
+  margin: 100px 0px 0px 19px;
+  float: left;
+}
+
+footer div:nth-child(2) p:first-child {
+  font-size: 24px;
+  font-style: normal;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #393939;
+  line-height: 25px;
+}
+
+footer div:nth-child(3) {
+  padding-top: 89px;
+  padding-left: 36%;
+}
+
+footer div:nth-child(3) ul li {
+  margin-right: 6%;
+}
+
+footer div:nth-child(3) p {
+  float: left;
+  color: #c2c2c2;
+  margin-top: 49px;
+}
+
+footer div:nth-child(3) p:nth-child(2) {
+  margin-left: 8%;
+}
+
+footer div:nth-child(3) p:nth-child(3) {
+  margin-left: 3%;
+}
+
+footer img:last-child {
+  height: 109px;
+  width: 109px;
+  position: absolute;
+  right: 4%;
+  bottom: 65px;
+}
