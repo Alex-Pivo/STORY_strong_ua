@@ -1,0 +1,27 @@
+@media (max-width: 321px) {
+  header img {
+    margin-left: 0;
+  }
+
+  .header_burger {
+    margin-left: 4%;
+  }
+
+  main aside button {
+    margin-right: 0;
+    width: 32%;
+  }
+
+  footer img:last-child {
+    height: 50px;
+    width: 50px;
+    bottom: 10px;
+    right: 10%;
+  }
+
+  main section article header img {
+    width: 24%;
+    left: 46%;
+    bottom: 10px;
+  }
+}

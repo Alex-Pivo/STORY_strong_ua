@@ -1,0 +1,50 @@
+@media (max-width: 376px) {
+  .header_burger {
+    margin-left: 10%;
+  }
+
+  article p:first-child {
+    font-size: 16px;
+  }
+
+  main aside {
+    justify-content: left;
+  }
+
+  main aside input:nth-child(4) {
+    margin-left: 0px;
+  }
+
+  main aside p {
+    margin-left: 0;
+    margin-right: 5px;
+    text-align: left;
+    font-size: 14px;
+  }
+
+  main aside button {
+    margin-left: 4%;
+  }
+
+  main aside p:nth-child(6) {
+    margin-left: 5px;
+  }
+
+  main nav img {
+    display: none;
+  }
+
+  main nav img:first-child {
+    display: block;
+  }
+
+  main nav img:last-child {
+    display: block;
+  }
+
+  main section article header img {
+    width: 20%;
+    left: 52%;
+    bottom: 14px;
+  }
+}
